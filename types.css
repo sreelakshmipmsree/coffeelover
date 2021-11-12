@@ -1,0 +1,27 @@
+body{
+    background-image: url(./images/cofewall2.jfif);
+}
+div{
+    border:white solid;
+    background-color:cornsilk;
+    width: 23%;
+    float: left;
+    height:374px ;
+    color:black; 
+    padding: 45px; 
+    padding-left: 80px;
+    
+
+}
+h2{
+    text-align: center;
+    font-family: 'Festive', cursive;
+    font-family: 'Fruktur', cursive;
+    font-family: 'Lobster', cursive;
+    font-family: 'Pacifico', cursive;
+    color: white;
+}
+div img{
+    width: 100%;
+    height: 202px;
+}

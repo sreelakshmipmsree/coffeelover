@@ -1,0 +1,67 @@
+#first{
+    background-image:url(./images/cafe4.jpg);
+    height: 500px;
+    
+}
+div h1{
+    text-align: center;
+    color: white;
+    padding-top: 150px;
+    font-family: 'Festive', cursive;
+    font-family: 'Lobster', cursive;
+}
+h3{
+    padding-left: 100px;
+    padding-right: 100px;
+    font-family: 'Festive', cursive;
+    font-family: 'Lobster', cursive;
+    font-family: 'Pacifico', cursive;
+}
+.header{
+    background-color: black;
+    padding-left: 800px;
+    height: 66px;
+}
+#m{
+    padding: 10px;
+    float: left;
+    color: white;
+    right: inherit;
+
+}
+
+h2{
+    padding-left: 100px;
+    font-family: 'Festive', cursive;
+    font-family: 'Lobster', cursive;
+    font-family: 'Pacifico', cursive;
+}
+#second{
+    background-image: url(./images/lovecof.jpg);
+    height: 1100px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+h4{
+    font-family: cursive;
+    
+
+}
+p{
+    font-family: cursive;
+    
+}
+#third{
+    border:white solid;
+    width: 32%;
+    float: left;
+    height:400px ;
+    color: white;  
+    padding: 2px;
+}
+div img{
+    
+    width: 84%;
+    height: 331px;
+    padding-left:px;
+}
